@@ -1,7 +1,7 @@
 ---
 date: '2020-11-18'
 title: 'Android-group-chat-application'
-github: 'https://github.com/AkhilAndroid/Chat-App/commits/master'
+github: 'https://github.com/A-Akhil/Chat-App/commits/master'
 
 tech:
   - Java

@@ -1,7 +1,7 @@
 ---
 date: '2023-08-25'
 title: 'Image Size Compressor'
-github: 'https://github.com/AkhilAndroid/Image-size-compressor'
+github: 'https://github.com/A-Akhil/Image-size-compressor'
 tech:
   - Python
   - Flask

@@ -1,7 +1,7 @@
 ---
 date: '2023-08-05'
 title: 'Bulk Certificate Generator'
-github: 'https://github.com/AkhilAndroid/Bulk-Certificate-Generator'
+github: 'https://github.com/A-Akhil/Bulk-Certificate-Generator'
 tech:
   - Python
   - Pillow

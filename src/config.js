@@ -4,7 +4,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/AkhilAndroid',
+      url: 'https://github.com/A-Akhil',
     },
     {
       name: 'Instagram',
@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/AkhilAndroid',
+      url: 'https://twitter.com/A-Akhil',
     },
     {
       name: 'Linkedin',

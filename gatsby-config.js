@@ -6,9 +6,9 @@ module.exports = {
     title: 'A Akhil',
     description:
       "Hi, I'm A Akhil, a passionate machine learning engineer skilled in developing and deploying models, eager to solve real-world problems with data and algorithms.",
-    siteUrl: 'https://github.com/AkhilAndroid/Personal-Website/', // No trailing slash allowed!
+    siteUrl: 'https://github.com/A-Akhil/Personal-Website/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@AkhilAndroid',
+    twitterUsername: '@A-Akhil',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

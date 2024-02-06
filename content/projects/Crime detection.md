@@ -1,7 +1,7 @@
 ---
 date: '2023-04-16'
 title: 'Crime Detection using Machine Learning'
-github: 'https://github.com/AkhilAndroid/Crime-Detection-using-Machine-Learning'
+github: 'https://github.com/A-Akhil/Crime-Detection-using-Machine-Learning'
 
 tech:
   - Python

@@ -2,7 +2,7 @@
 date: '2'
 title: 'Parking Lot Detection System'
 cover: './demo1.png'
-github: 'https://github.com/AkhilAndroid/Real-time-parking-detection-using-machine-learning'
+github: 'https://github.com/A-Akhil/Real-time-parking-detection-using-machine-learning'
 #external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - Python

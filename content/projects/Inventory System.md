@@ -1,7 +1,7 @@
 ---
 date: '2023-08-28'
 title: 'Inventory System'
-github: 'https://github.com/AkhilAndroid/inventory'
+github: 'https://github.com/A-Akhil/inventory'
 tech:
   - C++
 company: ''

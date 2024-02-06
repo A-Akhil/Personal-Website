@@ -2,7 +2,7 @@
 date: '1'
 title: 'Crime Detection'
 cover: './crime.png'
-github: 'https://github.com/AkhilAndroid/Crime-Detection-using-Machine-Learning'
+github: 'https://github.com/A-Akhil/Crime-Detection-using-Machine-Learning'
 # external: 'https://halcyon-theme.netlify.com/'
 tech:
   - Python

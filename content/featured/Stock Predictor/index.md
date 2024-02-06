@@ -2,7 +2,7 @@
 date: '3'
 title: 'Stock Predictor'
 cover: './demo.png'
-github: 'https://github.com/AkhilAndroid/Stock-predictor'
+github: 'https://github.com/A-Akhil/Stock-predictor'
 #cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 
 tech:

@@ -1,7 +1,7 @@
 ---
 date: '2023-11-12'
 title: 'Stock Predictor'
-github: 'https://github.com/AkhilAndroid/Stock-predictor'
+github: 'https://github.com/A-Akhil/Stock-predictor'
 
 tech:
   - Python

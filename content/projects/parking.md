@@ -1,7 +1,7 @@
 ---
 date: '2023-03-11'
 title: 'Parking Lot Detection System'
-github: 'https://github.com/AkhilAndroid/Real-time-parking-detection-using-machine-learning'
+github: 'https://github.com/A-Akhil/Real-time-parking-detection-using-machine-learning'
 tech:
   - Python
   - Yolo
